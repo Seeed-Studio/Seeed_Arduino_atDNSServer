@@ -1,4 +1,4 @@
-#include <WiFi.h>
+#include <AtWiFi.h>
 #include <DNSServer.h>
 
 const byte DNS_PORT = 53;
